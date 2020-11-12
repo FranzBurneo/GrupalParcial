@@ -1,0 +1,6 @@
+public String Translate(Language[] language)
+{
+	var enText;
+	enText = lenguage.Translate();
+	return enText;
+}
